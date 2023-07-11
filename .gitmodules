@@ -1,0 +1,9 @@
+[submodule "DeeSeventySix"]
+	path = DeeSeventySix
+	url = https://github.com/n1ckfg/DeeSeventySix
+[submodule "Telidon"]
+	path = Telidon
+	url = https://github.com/n1ckfg/Telidon
+[submodule "GeeBeeCamera"]
+	path = GeeBeeCamera
+	url = https://github.com/n1ckfg/GeeBeeCamera
