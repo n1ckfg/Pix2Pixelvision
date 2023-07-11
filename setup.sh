@@ -13,9 +13,11 @@ cd $DIR
 git submodule init
 git submodule update --init --recursive
 git submodule sync
-git submodule foreach git checkout $(git branch -l master main | sed 's/^* //')
+git submodule foreach git checkout master 2>/dev/null
+git submodule foreach git checkout main 2>/dev/null
 git submodule foreach git reset --hard
-git submodule foreach git pull origin $(git branch -l master main | sed 's/^* //')
+git submodule foreach git pull origin master 2>/dev/null
+git submodule foreach git pull origin main 2>/dev/null
 
 #cd Assets/latkxGDrive
 #git checkout unity-2018-lts
