@@ -1,12 +1,12 @@
 [submodule "DeeSeventySix"]
 	path = DeeSeventySix
-	url = git@github.com:n1ckfg/DeeSeventySix
+	url = https://github.com/n1ckfg/DeeSeventySix
 [submodule "Telidon"]
 	path = Telidon
-	url = git@github.com:n1ckfg/Telidon
+	url = https://github.com/n1ckfg/Telidon
 [submodule "GeeBeeCamera"]
 	path = GeeBeeCamera
-	url = git@github.com:n1ckfg/GeeBeeCamera
+	url = https://github.com/n1ckfg/GeeBeeCamera
 [submodule "Vectrexperiments"]
 	path = Vectrexperiments
-	url = git@github.com:n1ckfg/Vectrexperiments
+	url = https://github.com/n1ckfg/Vectrexperiments
