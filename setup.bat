@@ -1,5 +1,7 @@
 @echo off
 
+git pull
+
 git submodule init
 git submodule update --init --recursive
 git submodule sync
