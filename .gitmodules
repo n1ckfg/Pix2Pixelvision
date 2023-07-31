@@ -10,3 +10,6 @@
 [submodule "Vectrexperiments"]
 	path = Vectrexperiments
 	url = https://github.com/n1ckfg/Vectrexperiments
+[submodule "SlowscanJam"]
+	path = SlowscanJam
+	url = https://github.com/n1ckfg/SlowscanJam
