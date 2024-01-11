@@ -13,3 +13,6 @@
 [submodule "SlowscanJam"]
 	path = SlowscanJam
 	url = https://github.com/n1ckfg/SlowscanJam
+[submodule "Sandin-Image-Processor"]
+	path = Sandin-Image-Processor
+	url = https://github.com/n1ckfg/Sandin-Image-Processor
