@@ -16,3 +16,6 @@
 [submodule "Sandin-Image-Processor"]
 	path = Sandin-Image-Processor
 	url = https://github.com/n1ckfg/Sandin-Image-Processor
+[submodule "LICHEN"]
+	path = LICHEN
+	url = https://github.com/n1ckfg/LICHEN
