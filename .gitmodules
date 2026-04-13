@@ -19,3 +19,6 @@
 [submodule "LICHEN"]
 	path = LICHEN
 	url = https://github.com/n1ckfg/LICHEN
+[submodule "Twoscilloscope"]
+	path = Twoscilloscope
+	url = https://github.com/n1ckfg/Twoscilloscope
