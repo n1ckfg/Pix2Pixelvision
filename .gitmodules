@@ -22,3 +22,6 @@
 [submodule "Twoscilloscope"]
 	path = Twoscilloscope
 	url = https://github.com/n1ckfg/Twoscilloscope
+[submodule "Time-and-a-GAN"]
+	path = Time-and-a-GAN
+	url = https://github.com/n1ckfg/Time-and-a-GAN
